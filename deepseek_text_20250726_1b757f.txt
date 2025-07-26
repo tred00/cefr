@@ -1,0 +1,3 @@
+TELEGRAM_TOKEN=8439950721:AAEKrN46uCf2Vr3MSZ7EHnW3cQIKksWg0RE
+OPENAI_API_KEY=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
+MONGODB_URI=mongodb+srv://tred005t:Jasurbek008@cluster0.pts8wns.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
